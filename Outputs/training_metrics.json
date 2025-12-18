@@ -1,0 +1,1047 @@
+{
+  "config": {
+    "seed": 42,
+    "episodes": 200,
+    "max_steps_per_episode": 200,
+    "log_every": 10
+  },
+  "agents": [
+    "thief",
+    "guardian",
+    "negotiator",
+    "AgentX"
+  ],
+  "metrics": [
+    {
+      "episode": 0,
+      "totalReward": 46.80000000000001,
+      "success": 0
+    },
+    {
+      "episode": 1,
+      "totalReward": 32.99999999999986,
+      "success": 0
+    },
+    {
+      "episode": 2,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 3,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 4,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 5,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 6,
+      "totalReward": 51.2,
+      "success": 0
+    },
+    {
+      "episode": 7,
+      "totalReward": 49.2,
+      "success": 0
+    },
+    {
+      "episode": 8,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 9,
+      "totalReward": 51.60000000000001,
+      "success": 0
+    },
+    {
+      "episode": 10,
+      "totalReward": 52.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 11,
+      "totalReward": 49.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 12,
+      "totalReward": 51.60000000000001,
+      "success": 0
+    },
+    {
+      "episode": 13,
+      "totalReward": 48.60000000000001,
+      "success": 0
+    },
+    {
+      "episode": 14,
+      "totalReward": 50.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 15,
+      "totalReward": 50.60000000000001,
+      "success": 0
+    },
+    {
+      "episode": 16,
+      "totalReward": 49.6,
+      "success": 0
+    },
+    {
+      "episode": 17,
+      "totalReward": 45.200000000000024,
+      "success": 0
+    },
+    {
+      "episode": 18,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 19,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 20,
+      "totalReward": 51.79999999999985,
+      "success": 0
+    },
+    {
+      "episode": 21,
+      "totalReward": 50.2,
+      "success": 0
+    },
+    {
+      "episode": 22,
+      "totalReward": 54.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 23,
+      "totalReward": 55.80000000000001,
+      "success": 0
+    },
+    {
+      "episode": 24,
+      "totalReward": 55.40000000000001,
+      "success": 0
+    },
+    {
+      "episode": 25,
+      "totalReward": 59.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 26,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 27,
+      "totalReward": 27.79999999999977,
+      "success": 0
+    },
+    {
+      "episode": 28,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 29,
+      "totalReward": -36.00000000000007,
+      "success": 0
+    },
+    {
+      "episode": 30,
+      "totalReward": 44.40000000000003,
+      "success": 0
+    },
+    {
+      "episode": 31,
+      "totalReward": 22.99999999999968,
+      "success": 0
+    },
+    {
+      "episode": 32,
+      "totalReward": 31.79999999999982,
+      "success": 0
+    },
+    {
+      "episode": 33,
+      "totalReward": 28.599999999999724,
+      "success": 0
+    },
+    {
+      "episode": 34,
+      "totalReward": -39.19999999999988,
+      "success": 0
+    },
+    {
+      "episode": 35,
+      "totalReward": 46.800000000000026,
+      "success": 0
+    },
+    {
+      "episode": 36,
+      "totalReward": 60.40000000000006,
+      "success": 0
+    },
+    {
+      "episode": 37,
+      "totalReward": 53.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 38,
+      "totalReward": 56.800000000000026,
+      "success": 0
+    },
+    {
+      "episode": 39,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 40,
+      "totalReward": 27.199999999999775,
+      "success": 0
+    },
+    {
+      "episode": 41,
+      "totalReward": 38.3999999999999,
+      "success": 0
+    },
+    {
+      "episode": 42,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 43,
+      "totalReward": 49.6,
+      "success": 0
+    },
+    {
+      "episode": 44,
+      "totalReward": 51.60000000000001,
+      "success": 0
+    },
+    {
+      "episode": 45,
+      "totalReward": 44.200000000000024,
+      "success": 0
+    },
+    {
+      "episode": 46,
+      "totalReward": -31.20000000000045,
+      "success": 0
+    },
+    {
+      "episode": 47,
+      "totalReward": 46.200000000000024,
+      "success": 0
+    },
+    {
+      "episode": 48,
+      "totalReward": 36.59999999999988,
+      "success": 0
+    },
+    {
+      "episode": 49,
+      "totalReward": 35.79999999999986,
+      "success": 0
+    },
+    {
+      "episode": 50,
+      "totalReward": 41.19999999999997,
+      "success": 0
+    },
+    {
+      "episode": 51,
+      "totalReward": 40.79999999999998,
+      "success": 0
+    },
+    {
+      "episode": 52,
+      "totalReward": 49.2,
+      "success": 0
+    },
+    {
+      "episode": 53,
+      "totalReward": 24.999999999999748,
+      "success": 1
+    },
+    {
+      "episode": 54,
+      "totalReward": 50.4,
+      "success": 1
+    },
+    {
+      "episode": 55,
+      "totalReward": 21.199999999999612,
+      "success": 0
+    },
+    {
+      "episode": 56,
+      "totalReward": -39.19999999999988,
+      "success": 0
+    },
+    {
+      "episode": 57,
+      "totalReward": 49.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 58,
+      "totalReward": 41.6,
+      "success": 0
+    },
+    {
+      "episode": 59,
+      "totalReward": -27.200000000000458,
+      "success": 0
+    },
+    {
+      "episode": 60,
+      "totalReward": 49,
+      "success": 1
+    },
+    {
+      "episode": 61,
+      "totalReward": 51.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 62,
+      "totalReward": 19.599999999999646,
+      "success": 0
+    },
+    {
+      "episode": 63,
+      "totalReward": 43.800000000000026,
+      "success": 0
+    },
+    {
+      "episode": 64,
+      "totalReward": 50.2,
+      "success": 0
+    },
+    {
+      "episode": 65,
+      "totalReward": 33.19999999999986,
+      "success": 0
+    },
+    {
+      "episode": 66,
+      "totalReward": 49.4,
+      "success": 0
+    },
+    {
+      "episode": 67,
+      "totalReward": -36.000000000000156,
+      "success": 0
+    },
+    {
+      "episode": 68,
+      "totalReward": 42.40000000000002,
+      "success": 0
+    },
+    {
+      "episode": 69,
+      "totalReward": -32.00000000000046,
+      "success": 0
+    },
+    {
+      "episode": 70,
+      "totalReward": 44.40000000000003,
+      "success": 0
+    },
+    {
+      "episode": 71,
+      "totalReward": 34.19999999999985,
+      "success": 0
+    },
+    {
+      "episode": 72,
+      "totalReward": 23.399999999999665,
+      "success": 0
+    },
+    {
+      "episode": 73,
+      "totalReward": 42.600000000000016,
+      "success": 0
+    },
+    {
+      "episode": 74,
+      "totalReward": 24.599999999999714,
+      "success": 1
+    },
+    {
+      "episode": 75,
+      "totalReward": 48.60000000000002,
+      "success": 0
+    },
+    {
+      "episode": 76,
+      "totalReward": 34.599999999999696,
+      "success": 0
+    },
+    {
+      "episode": 77,
+      "totalReward": -24.80000000000027,
+      "success": 0
+    },
+    {
+      "episode": 78,
+      "totalReward": 46.80000000000001,
+      "success": 1
+    },
+    {
+      "episode": 79,
+      "totalReward": 30.99999999999976,
+      "success": 0
+    },
+    {
+      "episode": 80,
+      "totalReward": 47.800000000000004,
+      "success": 1
+    },
+    {
+      "episode": 81,
+      "totalReward": 51,
+      "success": 1
+    },
+    {
+      "episode": 82,
+      "totalReward": 51,
+      "success": 1
+    },
+    {
+      "episode": 83,
+      "totalReward": 34.199999999999875,
+      "success": 0
+    },
+    {
+      "episode": 84,
+      "totalReward": 19.799999999999656,
+      "success": 1
+    },
+    {
+      "episode": 85,
+      "totalReward": 37.39999999999993,
+      "success": 1
+    },
+    {
+      "episode": 86,
+      "totalReward": -33.60000000000034,
+      "success": 0
+    },
+    {
+      "episode": 87,
+      "totalReward": 38.59999999999993,
+      "success": 1
+    },
+    {
+      "episode": 88,
+      "totalReward": 49.80000000000003,
+      "success": 1
+    },
+    {
+      "episode": 89,
+      "totalReward": 58.40000000000003,
+      "success": 0
+    },
+    {
+      "episode": 90,
+      "totalReward": 46.60000000000002,
+      "success": 0
+    },
+    {
+      "episode": 91,
+      "totalReward": -32.80000000000021,
+      "success": 0
+    },
+    {
+      "episode": 92,
+      "totalReward": 42.80000000000003,
+      "success": 0
+    },
+    {
+      "episode": 93,
+      "totalReward": 48.6,
+      "success": 0
+    },
+    {
+      "episode": 94,
+      "totalReward": 42.40000000000001,
+      "success": 0
+    },
+    {
+      "episode": 95,
+      "totalReward": 31.79999999999983,
+      "success": 0
+    },
+    {
+      "episode": 96,
+      "totalReward": 37.59999999999994,
+      "success": 0
+    },
+    {
+      "episode": 97,
+      "totalReward": 39.799999999999955,
+      "success": 0
+    },
+    {
+      "episode": 98,
+      "totalReward": 43.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 99,
+      "totalReward": 52.2,
+      "success": 1
+    },
+    {
+      "episode": 100,
+      "totalReward": -39.19999999999988,
+      "success": 0
+    },
+    {
+      "episode": 101,
+      "totalReward": -32.00000000000041,
+      "success": 0
+    },
+    {
+      "episode": 102,
+      "totalReward": 50.2,
+      "success": 1
+    },
+    {
+      "episode": 103,
+      "totalReward": -30.400000000000425,
+      "success": 0
+    },
+    {
+      "episode": 104,
+      "totalReward": 50.4,
+      "success": 1
+    },
+    {
+      "episode": 105,
+      "totalReward": 34.3999999999999,
+      "success": 1
+    },
+    {
+      "episode": 106,
+      "totalReward": -32.80000000000037,
+      "success": 0
+    },
+    {
+      "episode": 107,
+      "totalReward": 33.59999999999986,
+      "success": 1
+    },
+    {
+      "episode": 108,
+      "totalReward": 38.39999999999997,
+      "success": 1
+    },
+    {
+      "episode": 109,
+      "totalReward": 53.4,
+      "success": 0
+    },
+    {
+      "episode": 110,
+      "totalReward": 45.60000000000002,
+      "success": 0
+    },
+    {
+      "episode": 111,
+      "totalReward": 47.20000000000001,
+      "success": 1
+    },
+    {
+      "episode": 112,
+      "totalReward": 45.20000000000002,
+      "success": 1
+    },
+    {
+      "episode": 113,
+      "totalReward": 50.6,
+      "success": 1
+    },
+    {
+      "episode": 114,
+      "totalReward": 51,
+      "success": 1
+    },
+    {
+      "episode": 115,
+      "totalReward": 48.4,
+      "success": 1
+    },
+    {
+      "episode": 116,
+      "totalReward": -33.60000000000029,
+      "success": 0
+    },
+    {
+      "episode": 117,
+      "totalReward": 36.79999999999964,
+      "success": 1
+    },
+    {
+      "episode": 118,
+      "totalReward": -33.60000000000031,
+      "success": 0
+    },
+    {
+      "episode": 119,
+      "totalReward": 45.20000000000003,
+      "success": 1
+    },
+    {
+      "episode": 120,
+      "totalReward": -15.200000000000422,
+      "success": 0
+    },
+    {
+      "episode": 121,
+      "totalReward": 53.6,
+      "success": 1
+    },
+    {
+      "episode": 122,
+      "totalReward": 55.400000000000006,
+      "success": 1
+    },
+    {
+      "episode": 123,
+      "totalReward": -33.600000000000314,
+      "success": 0
+    },
+    {
+      "episode": 124,
+      "totalReward": 43.40000000000004,
+      "success": 0
+    },
+    {
+      "episode": 125,
+      "totalReward": 30.399999999999828,
+      "success": 0
+    },
+    {
+      "episode": 126,
+      "totalReward": 39.99999999999998,
+      "success": 1
+    },
+    {
+      "episode": 127,
+      "totalReward": 31.199999999999832,
+      "success": 1
+    },
+    {
+      "episode": 128,
+      "totalReward": 45.40000000000002,
+      "success": 1
+    },
+    {
+      "episode": 129,
+      "totalReward": -27.20000000000046,
+      "success": 0
+    },
+    {
+      "episode": 130,
+      "totalReward": 55,
+      "success": 1
+    },
+    {
+      "episode": 131,
+      "totalReward": -12.800000000000281,
+      "success": 0
+    },
+    {
+      "episode": 132,
+      "totalReward": 54.20000000000001,
+      "success": 1
+    },
+    {
+      "episode": 133,
+      "totalReward": 39.99999999999998,
+      "success": 1
+    },
+    {
+      "episode": 134,
+      "totalReward": 42.00000000000001,
+      "success": 1
+    },
+    {
+      "episode": 135,
+      "totalReward": 45.999999999999794,
+      "success": 1
+    },
+    {
+      "episode": 136,
+      "totalReward": 52.800000000000004,
+      "success": 1
+    },
+    {
+      "episode": 137,
+      "totalReward": 51,
+      "success": 1
+    },
+    {
+      "episode": 138,
+      "totalReward": 33.39999999999982,
+      "success": 1
+    },
+    {
+      "episode": 139,
+      "totalReward": -33.60000000000034,
+      "success": 0
+    },
+    {
+      "episode": 140,
+      "totalReward": 28.59999999999959,
+      "success": 1
+    },
+    {
+      "episode": 141,
+      "totalReward": 53.6,
+      "success": 1
+    },
+    {
+      "episode": 142,
+      "totalReward": 58.80000000000001,
+      "success": 0
+    },
+    {
+      "episode": 143,
+      "totalReward": 22.99999999999967,
+      "success": 0
+    },
+    {
+      "episode": 144,
+      "totalReward": -31.200000000000465,
+      "success": 0
+    },
+    {
+      "episode": 145,
+      "totalReward": 48.00000000000001,
+      "success": 0
+    },
+    {
+      "episode": 146,
+      "totalReward": 49.2,
+      "success": 1
+    },
+    {
+      "episode": 147,
+      "totalReward": -37.60000000000003,
+      "success": 0
+    },
+    {
+      "episode": 148,
+      "totalReward": 49.2,
+      "success": 0
+    },
+    {
+      "episode": 149,
+      "totalReward": 48.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 150,
+      "totalReward": 22.399999999999675,
+      "success": 0
+    },
+    {
+      "episode": 151,
+      "totalReward": 42.599999999999994,
+      "success": 0
+    },
+    {
+      "episode": 152,
+      "totalReward": 54.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 153,
+      "totalReward": -33.60000000000031,
+      "success": 0
+    },
+    {
+      "episode": 154,
+      "totalReward": 43.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 155,
+      "totalReward": 48.6,
+      "success": 1
+    },
+    {
+      "episode": 156,
+      "totalReward": -34.400000000000276,
+      "success": 0
+    },
+    {
+      "episode": 157,
+      "totalReward": -18.400000000000176,
+      "success": 0
+    },
+    {
+      "episode": 158,
+      "totalReward": 53.00000000000003,
+      "success": 0
+    },
+    {
+      "episode": 159,
+      "totalReward": 34.599999999999895,
+      "success": 0
+    },
+    {
+      "episode": 160,
+      "totalReward": 50.6,
+      "success": 0
+    },
+    {
+      "episode": 161,
+      "totalReward": 32.59999999999986,
+      "success": 0
+    },
+    {
+      "episode": 162,
+      "totalReward": 43.39999999999996,
+      "success": 0
+    },
+    {
+      "episode": 163,
+      "totalReward": 48.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 164,
+      "totalReward": -31.20000000000046,
+      "success": 0
+    },
+    {
+      "episode": 165,
+      "totalReward": -29.6000000000004,
+      "success": 0
+    },
+    {
+      "episode": 166,
+      "totalReward": 39.19999999999994,
+      "success": 0
+    },
+    {
+      "episode": 167,
+      "totalReward": -32.00000000000043,
+      "success": 0
+    },
+    {
+      "episode": 168,
+      "totalReward": 39.19999999999992,
+      "success": 0
+    },
+    {
+      "episode": 169,
+      "totalReward": 46.000000000000014,
+      "success": 0
+    },
+    {
+      "episode": 170,
+      "totalReward": 43.200000000000024,
+      "success": 0
+    },
+    {
+      "episode": 171,
+      "totalReward": 40.199999999999946,
+      "success": 0
+    },
+    {
+      "episode": 172,
+      "totalReward": 50,
+      "success": 0
+    },
+    {
+      "episode": 173,
+      "totalReward": 51,
+      "success": 0
+    },
+    {
+      "episode": 174,
+      "totalReward": 51.2,
+      "success": 0
+    },
+    {
+      "episode": 175,
+      "totalReward": 50,
+      "success": 0
+    },
+    {
+      "episode": 176,
+      "totalReward": 50.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 177,
+      "totalReward": 49.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 178,
+      "totalReward": 50.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 179,
+      "totalReward": 51.2,
+      "success": 0
+    },
+    {
+      "episode": 180,
+      "totalReward": 50.6,
+      "success": 0
+    },
+    {
+      "episode": 181,
+      "totalReward": 50.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 182,
+      "totalReward": 50.6,
+      "success": 0
+    },
+    {
+      "episode": 183,
+      "totalReward": 51,
+      "success": 0
+    },
+    {
+      "episode": 184,
+      "totalReward": 51.2,
+      "success": 0
+    },
+    {
+      "episode": 185,
+      "totalReward": 51.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 186,
+      "totalReward": 51.2,
+      "success": 0
+    },
+    {
+      "episode": 187,
+      "totalReward": 50,
+      "success": 0
+    },
+    {
+      "episode": 188,
+      "totalReward": 51.6,
+      "success": 0
+    },
+    {
+      "episode": 189,
+      "totalReward": 51,
+      "success": 0
+    },
+    {
+      "episode": 190,
+      "totalReward": 50.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 191,
+      "totalReward": 50.6,
+      "success": 0
+    },
+    {
+      "episode": 192,
+      "totalReward": 51,
+      "success": 0
+    },
+    {
+      "episode": 193,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 194,
+      "totalReward": 50.2,
+      "success": 0
+    },
+    {
+      "episode": 195,
+      "totalReward": 51.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 196,
+      "totalReward": 50.400000000000006,
+      "success": 0
+    },
+    {
+      "episode": 197,
+      "totalReward": 51.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 198,
+      "totalReward": 50.800000000000004,
+      "success": 0
+    },
+    {
+      "episode": 199,
+      "totalReward": 50.2,
+      "success": 0
+    }
+  ],
+  "finalQ": {
+    "thief": [
+      0.016731522855566464,
+      -0.09442855143593343,
+      0.18631042849694573,
+      -0.0019143567186280866,
+      0.09115579983258461
+    ],
+    "guardian": [
+      33.75787776181321,
+      30.64456854703403,
+      29.465210821059262,
+      42.30698123752807,
+      32.700829011022535
+    ],
+    "negotiator": [
+      0.1112109101993728,
+      0.176664348894783,
+      0.11727535074275705,
+      0.09547271996632103,
+      0.11848948216601513
+    ],
+    "AgentX": [
+      0.1970459739557263,
+      -0.012457926235180251,
+      -0.08190344872696004,
+      -0.08247721555030624,
+      0.10723364064599061
+    ]
+  },
+  "generated_at": "2025-12-18T08:05:50.026Z"
+}
